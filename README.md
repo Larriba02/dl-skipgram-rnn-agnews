@@ -125,6 +125,7 @@ segundo.
 ```
 01_skipgram_embeddings.ipynb      seis embeddings Skip-Gram y su evaluación
 02_lstm_gru_clasificacion.ipynb   LSTM/GRU, test y titulares web
+memoria.pdf                       memoria del proyecto
 figures/                          figuras exportadas
 ```
 
